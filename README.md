@@ -83,3 +83,6 @@ iOS最全第三方库收集，以后会逐步更新和整理。有资源的伙�
   [22]: https://www.zhihu.com/question/28518265/answer/88750562
   [23]: http://www.devstore.cn/essay/essayInfo/6485.html
   [24]: http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652545591&idx=1&sn=88967524c1b2c4f008ca6f84454ebfab&scene=23&srcid=0603oZQh7Cn8BJgZuNby6518#rd
+
+==========环信开发==========
+http://www.imgeek.org/article/825308166?utm_source=demo_810
